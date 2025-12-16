@@ -89,7 +89,8 @@ This is a comprehensive list of **Heterogeneous Transfer Learning Methods** with
 |[NUS-WIDE](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html)+[ImageNet](https://www.image-net.org/)|2015|Image Classification|
 |[Office-Home](https://www.hemanthdv.org/officeHomeDataset.html)| 2017 | Object Recognition, Image Classification|
 |[Multilingual Amazon Reviews](https://registry.opendata.aws/amazon-reviews-ml/)|2020|Multilingual Sentiment Analysis, Text Classification|
-
+|[VisDA-2017](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification)|2017|Visual Domain Adaptation (Synthetic-to-Real Image Classification)|
+|[PAWS-X](https://huggingface.co/datasets/google/xtreme)|2019|Cross-lingual Paraphrase Identification|
 For more detailed information, please read our survey: [**A Recent Survey on Heterogeneous Transfer Learning**](https://arxiv.org/abs/2310.08459). 
 
 For general **Transfer Learning** Papers, Tutorials, and Surveys, please check Dr. Jindong Wang's [Transfer Learning Repo](https://github.com/jindongwang/transferlearning). 
